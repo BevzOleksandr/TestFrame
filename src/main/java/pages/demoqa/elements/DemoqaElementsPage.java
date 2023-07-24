@@ -40,7 +40,7 @@ public class DemoqaElementsPage extends BasePage {
     }
 
     public DemoqaElementsPage clickElementsBtn() {
-        driver.findElement(ELEMENTS_TN_IN_LIST).click();
+        driver.findElement(ELEMENTS_BTN_IN_LIST).click();
         return this;
     }
 
