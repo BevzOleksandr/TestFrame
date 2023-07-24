@@ -12,7 +12,7 @@ public class DemoqaElementsPageTest extends BaseTest {
 
     @Test (suiteName = "ElementsPage")
     public void checkVisibilityOfTextBoxBtn() {
-        demoqaHomePage.enterElementsPage();
+//        demoqaHomePage.enterElementsPage();
         demoqaElementsPage
                 .clickElementsBtn()
                 .checkTextBoxBtnIsVisible();
