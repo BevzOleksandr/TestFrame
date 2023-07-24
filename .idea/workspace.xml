@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bd8e4d2-baa0-4f34-a637-a96e1fd4c841" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2T0ciBr4bjlzF8ENP861gV9vagm" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "C:/All(Work,Homework)/Last/IntelliJ/Tests/AutomationTestFrame/src/test/java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\All(Work,Homework)\Last\IntelliJ\Tests\AutomationTestFrame\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DemoqaElementsPageTest.checkVisibilityOfTextBoxBtn">
+    <configuration name="DemoqaElementsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elements" />
+      <option name="MAIN_CLASS_NAME" value="tests.elements.DemoqaElementsPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoqaElementsPageTest.checkVisibilityOfTextBoxBtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elements" />
+      <option name="MAIN_CLASS_NAME" value="tests.elements.DemoqaElementsPageTest" />
+      <option name="METHOD_NAME" value="checkVisibilityOfTextBoxBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoqaHomePageTest.checkCountOfListBtns" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.home" />
+      <option name="MAIN_CLASS_NAME" value="tests.home.DemoqaHomePageTest" />
+      <option name="METHOD_NAME" value="checkCountOfListBtns" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoqaHomePageTest.checkVisibilityOfLogoBtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.home" />
+      <option name="MAIN_CLASS_NAME" value="tests.home.DemoqaHomePageTest" />
+      <option name="METHOD_NAME" value="checkVisibilityOfLogoBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoqaHomePageTest.checkVisibilityOfTextBoxBtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.home" />
+      <option name="MAIN_CLASS_NAME" value="tests.home.DemoqaHomePageTest" />
+      <option name="METHOD_NAME" value="checkVisibilityOfTextBoxBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoqaElementsPageTest.checkVisibilityOfTextBoxBtn" />
+        <item itemvalue="TestNG.DemoqaElementsPageTest" />
+        <item itemvalue="TestNG.DemoqaHomePageTest.checkVisibilityOfTextBoxBtn" />
+        <item itemvalue="TestNG.DemoqaHomePageTest.checkCountOfListBtns" />
+        <item itemvalue="TestNG.DemoqaHomePageTest.checkVisibilityOfLogoBtn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bd8e4d2-baa0-4f34-a637-a96e1fd4c841" name="Changes" comment="" />
+      <created>1690183566329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690183566329</updated>
+    </task>
+    <servers />
+  </component>
+</project>

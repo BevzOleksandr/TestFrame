@@ -1,0 +1,8 @@
+pages\demoqa\elements\DemoqaElementsPage.class
+constants\Constant$Urls.class
+constants\Constant.class
+pages\demoqa\home\DemoqaHomePage.class
+pages\base\BasePage.class
+common\CommonActions.class
+common\Config.class
+constants\Constant$TimeoutVariable.class

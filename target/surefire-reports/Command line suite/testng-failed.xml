@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="tests.base.BaseTest">
+        <methods>
+          <include name="clearCookiesAndLocalStorage"/>
+        </methods>
+      </class> <!-- tests.base.BaseTest -->
+      <class name="tests.elements.DemoqaElementsPageTest">
+        <methods>
+          <include name="close"/>
+          <include name="checkVisibilityOfTextBoxBtn"/>
+          <include name="clearCookiesAndLocalStorage"/>
+          <include name="runDemoqaHomePage"/>
+          <include name="checkCountOfListBtns"/>
+        </methods>
+      </class> <!-- tests.elements.DemoqaElementsPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
